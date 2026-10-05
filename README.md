@@ -50,7 +50,7 @@ Live since June 2026, with paying customers in Brazil.
 
 ## Team
 
-Built by [Partner name] and Matheus Zanola ([@zanola-matheus](https://github.com/zanola-matheus)). [Partner name] created the original prototype for his own barbershop. Matheus is co-founder and CTO and leads engineering.
+Built by Henrich Reis and Matheus Zanola ([@zanola-matheus](https://github.com/zanola-matheus)). Henrich created the original prototype for his own barbershop. Matheus is co-founder and CTO and leads engineering.
 
 ## Contact
 
